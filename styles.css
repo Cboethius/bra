@@ -37,3 +37,7 @@ img{
     position: absolute;
     z-index: -1;
 }
+
+ul{
+    position: absolute;
+}
